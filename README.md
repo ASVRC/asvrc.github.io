@@ -1,2 +1,0 @@
-# asvrc.github.io
-SVRC
